@@ -1,0 +1,4 @@
+The number divide by both 3 & 5 : 
+15
+30
+45
